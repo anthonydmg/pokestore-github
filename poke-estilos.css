@@ -1,3 +1,48 @@
-title{
+.hero{
+    font-size: 40px;
+    display: flex;
+    background-color: #1b2127;
+}
+
+.hero h1{
+    margin-left: 165px;
+    color: bisque;
+}
+
+.pokemons-image{
+    width: 560px;
+    height: 487px;
+    
+}
+
+.header h1{
     font-size: 45px;
 }
+
+.body{
+    align-content: center;
+    font-family: 'Acme', sans-serif;
+    margin: auto;
+    background: hsla(20, 100%,7%,0.7);
+}
+
+.body-down-part{
+    margin-top: 0px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+    height: 487px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    background: #ffebee;
+}
+
+.pokemons{
+    width: 600px;
+    margin-top: -17px;
+}
+
+.pokemons-figure{
+    height: 0;
+}
+
